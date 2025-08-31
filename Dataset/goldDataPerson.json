@@ -1,0 +1,536 @@
+[    
+    {
+        "text": "Bobby Jackson: 30 years old, Male, blood type B-, was admitted on 2024-01-31 at Sons and Miller due to Cancer, under Urgent admission. Insurance provider: Blue Cross. The attending physician, Dr. Matthew Smith, prescribed Paracetamol. Test results indicated Normal. The patient was discharged on 2024-02-02 with a total bill of $18856.28.",
+        "entities": [
+            {"text": "Bobby Jackson", "label": "PERSON"},
+            {"text": "2024-01-31", "label": "DATE"},
+            {"text": "Sons and Miller", "label": "ORG"},
+            {"text": "Blue Cross", "label": "ORG"},
+            {"text": "Dr. Matthew Smith", "label": "PERSON"},
+            {"text": "2024-02-02", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2019-08-20, Leslie Terry (Male, 62 years old, blood type A+) was admitted to Kim Inc for treatment of Obesity (Emergency admission). Covered by Medicare, the patient was treated by Dr. Samantha Davies who prescribed Ibuprofen. Tests revealed Inconclusive. Discharge occurred on 2019-08-26 with a billing charge of $33643.33.",
+        "entities": [
+            {"text": "Leslie Terry", "label": "PERSON"},
+            {"text": "2019-08-20", "label": "DATE"},
+            {"text": "Kim Inc", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Samantha Davies", "label": "PERSON"},
+            {"text": "2019-08-26", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Danny Smith, (Female, 76 years old, blood type A-) was admitted in Emergency mode. The patient was hospitalized on 2022-09-22 to Cook PLC for Obesity. Patient insurance is Aetna. The Dr. Tiffany Mitchell prescribed the Aspirin. Tests have shown Normal results. The patient  was discharged on 2022-10-07 with a billing amount in this range: $27955.10.",
+        "entities": [
+            {"text": "Danny Smith", "label": "PERSON"},
+            {"text": "2022-09-22", "label": "DATE"},
+            {"text": "Cook PLC", "label": "ORG"},
+            {"text": "Aetna", "label": "ORG"},
+            {"text": "Dr. Tiffany Mitchell", "label": "PERSON"},
+            {"text": "2022-10-07", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Andrew Watts: 28 years old, Female, blood type O+, was admitted on 2020-11-18 at Hernandez Rogers and Vang, due to Diabetes, under Elective admission. Insurance provider: Medicare. The attending physician, Dr. Kevin Wells, prescribed Ibuprofen. Test results indicated Abnormal. The patient was discharged on 2020-12-18 with a total bill of $37909.78.",
+        "entities": [
+            {"text": "Andrew Watts", "label": "PERSON"},
+            {"text": "2020-11-18", "label": "DATE"},
+            {"text": "Hernandez Rogers and Vang", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Kevin Wells", "label": "PERSON"},
+            {"text": "2020-12-18", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Adrienne Bell: 43 years old, Female, blood type AB+, was admitted on 2022-09-19 at White-White due to Cancer, under Urgent admission. Insurance provider: Aetna. The attending physician, Dr. Kathleen Hanna, prescribed Penicillin. Test results indicated Abnormal. The patient was discharged on 2022-10-09 with a total bill of $14238.32.",
+        "entities": [
+            {"text": "Adrienne Bell", "label": "PERSON"},
+            {"text": "2022-09-19", "label": "DATE"},
+            {"text": "White-White", "label": "ORG"},
+            {"text": "Aetna", "label": "ORG"},
+            {"text": "Dr. Kathleen Hanna", "label": "PERSON"},
+            {"text": "2022-10-09", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Emily Johnson: 36 years old, Male, blood type A+, was admitted on 2023-12-20 at Nunez-Humphrey due to Asthma, under Urgent admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Taylor Newton, prescribed Ibuprofen. Test results indicated Normal. The patient was discharged on 2023-12-24 with a total bill of $48145.11.",
+        "entities": [
+            {"text": "Emily Johnson", "label": "PERSON"},
+            {"text": "2023-12-20", "label": "DATE"},
+            {"text": "Nunez-Humphrey", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Taylor Newton", "label": "PERSON"},
+            {"text": "2023-12-24", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Edward Edwards: 21 years old, Female, blood type AB-, was admitted on 2020-11-03 at Group Middleton due to Diabetes, under Emergency admission. Insurance provider: Medicare. The attending physician, Dr. Kelly Olson, prescribed Paracetamol. Test results indicated Inconclusive. The patient was discharged on 2020-11-15 with a total bill of $19580.87.",
+        "entities": [
+            {"text": "Edward Edwards", "label": "PERSON"},
+            {"text": "2020-11-03", "label": "DATE"},
+            {"text": "Group Middleton", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Kelly Olson", "label": "PERSON"},
+            {"text": "2020-11-15", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Christina Martinez: 20 years old, Female, blood type A+, was admitted on 2021-12-28 at Powell Robinson and Valdez, due to Cancer, under Emergency admission. Insurance provider: Cigna. The attending physician, Dr. Suzanne Thomas, prescribed Paracetamol. Test results indicated Inconclusive. The patient was discharged on 2022-01-07 with a total bill of $45820.46.",
+        "entities": [
+            {"text": "Christina Martinez", "label": "PERSON"},
+            {"text": "2021-12-28", "label": "DATE"},
+            {"text": "Powell Robinson and Valdez", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Suzanne Thomas", "label": "PERSON"},
+            {"text": "2022-01-07", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2020-07-01, Jasmine Aguilar (Male, 82 years old, blood type AB+) was admitted to Sons Rich and for treatment of Asthma (Elective admission). Covered by Cigna, the patient was treated by Dr. Daniel Ferguson who prescribed Aspirin. Discharge occurred on 2020-07-14 with a billing charge of $50119.22.",
+        "entities": [
+            {"text": "Jasmine Aguilar", "label": "PERSON"},
+            {"text": "2020-07-01", "label": "DATE"},
+            {"text": "Sons Rich", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Daniel Ferguson", "label": "PERSON"},
+            {"text": "2020-07-14", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Christopher Berg: 58 years old, Female, blood type AB-, was admitted on 2021-05-23 at Padilla-Walker due to Cancer, under Elective admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Heather Day, prescribed Paracetamol. Test results indicated Inconclusive. The patient was discharged on 2021-06-22 with a total bill of $19784.63.",
+        "entities": [
+            {"text": "Christopher Berg", "label": "PERSON"},
+            {"text": "2021-05-23", "label": "DATE"},
+            {"text": "Padilla-Walker", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Heather Day", "label": "PERSON"},
+            {"text": "2021-06-22", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2020-04-19, Michelle Daniels (Male, 72 years old, blood type O+) was admitted to Schaefer-Porter for treatment of Cancer (Urgent admission). Covered by Medicare, the patient was treated by Dr. John Duncan who prescribed Paracetamol. Discharge occurred on 2020-04-22 with a billing charge of $12576.80.",
+        "entities": [
+            {"text": "Michelle Daniels", "label": "PERSON"},
+            {"text": "2020-04-19", "label": "DATE"},
+            {"text": "Schaefer-Porter", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. John Duncan", "label": "PERSON"},
+            {"text": "2020-04-22", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Aaron Martinez, (Female, 38 years old, blood type A-) was admitted in Urgent mode. The patient was hospitalized on 2023-08-13 to Lyons-Blair for Hypertension. Patient insurance is Medicare. The Dr. Douglas Mayo prescribed the Lipitor. Tests have shown Inconclusive results. The patient  was discharged on 2023-09-05 with a billing amount in this range: $7999.59.",
+        "entities": [
+            {"text": "Aaron Martinez", "label": "PERSON"},
+            {"text": "2023-08-13", "label": "DATE"},
+            {"text": "Lyons-Blair", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Douglas Mayo", "label": "PERSON"},
+            {"text": "2023-09-05", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Connor Hansen, (Female, 75 years old, blood type A+) was admitted in Emergency mode. The patient was hospitalized on 2019-12-12 to Powers Miller, and Flores for Diabetes. Patient insurance is Cigna. The Dr. Kenneth Fletcher prescribed the Penicillin. Tests have shown Abnormal results. The patient  was discharged on 2019-12-28 with a billing amount in this range: $43282.28.",
+        "entities": [
+            {"text": "Connor Hansen", "label": "PERSON"},
+            {"text": "2019-12-12", "label": "DATE"},
+            {"text": "Powers Miller, and Flores", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Kenneth Fletcher", "label": "PERSON"},
+            {"text": "2019-12-28", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Robert Bauer, (Female, 68 years old, blood type AB+) was admitted in Urgent mode. The patient was hospitalized on 2020-05-22 to Rivera-Gutierrez for Asthma. Patient insurance is UnitedHealthcare. The Dr. Theresa Freeman prescribed the Lipitor. Tests have shown Normal results. The patient  was discharged on 2020-06-19 with a billing amount in this range: $33207.71.",
+        "entities": [
+            {"text": "Robert Bauer", "label": "PERSON"},
+            {"text": "2020-05-22", "label": "DATE"},
+            {"text": "Rivera-Gutierrez", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Theresa Freeman", "label": "PERSON"},
+            {"text": "2020-06-19", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Brooke Brady: 44 years old, Female, blood type AB+, was admitted on 2021-10-08 at Morris-Arellano due to Cancer, under Urgent admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Roberta Stewart, prescribed Paracetamol. Test results indicated Normal. The patient was discharged on 2021-10-13 with a total bill of $40701.60.",
+        "entities": [
+            {"text": "Brooke Brady", "label": "PERSON"},
+            {"text": "2021-10-08", "label": "DATE"},
+            {"text": "Morris-Arellano", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Roberta Stewart", "label": "PERSON"},
+            {"text": "2021-10-13", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Ms. Natalie Gamble, (Female, 46 years old, blood type AB-) was admitted in Elective mode. The patient was hospitalized on 2023-01-01 to Cline-Williams for Obesity. Patient insurance is Blue Cross. The Dr. Maria Dougherty prescribed the Aspirin. Tests have shown Inconclusive results. The patient  was discharged on 2023-01-11 with a billing amount in this range: $12263.36.",
+        "entities": [
+            {"text": "Natalie Gamble", "label": "PERSON"},
+            {"text": "2023-01-01", "label": "DATE"},
+            {"text": "Cline-Williams", "label": "ORG"},
+            {"text": "Blue Cross", "label": "ORG"},
+            {"text": "Dr. Maria Dougherty", "label": "PERSON"},
+            {"text": "2023-01-11", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Haley Perkins: 63 years old, Female, blood type A+, was admitted on 2020-06-23 at Cervantes-Wells due to Arthritis, under Elective admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Erica Spencer, prescribed Paracetamol. Test results indicated Normal. The patient was discharged on 2020-07-14 with a total bill of $24499.85.",
+        "entities": [
+            {"text": "Haley Perkins", "label": "PERSON"},
+            {"text": "2020-06-23", "label": "DATE"},
+            {"text": "Cervantes-Wells", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Erica Spencer", "label": "PERSON"},
+            {"text": "2020-07-14", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Mrs. Jamie Campbell, (Male, 38 years old, blood type AB-) was admitted in Urgent mode. The patient was hospitalized on 2020-03-08 to Torres, and Harrison Jones for Obesity. Patient insurance is Cigna. The Dr. Justin Kim prescribed the Paracetamol. Tests have shown Abnormal results. The patient  was discharged on 2020-04-02 with a billing amount in this range: $17440.47.",
+        "entities": [
+            {"text": "Jamie Campbell", "label": "PERSON"},
+            {"text": "2020-03-08", "label": "DATE"},
+            {"text": "Torres, and Harrison Jones", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Justin Kim", "label": "PERSON"},
+            {"text": "2020-04-02", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2021-03-04, Luke Burgess (Female, 34 years old, blood type A-) was admitted to Houston PLC for treatment of Hypertension (Elective admission). Covered by Blue Cross, the patient was treated by Dr. Justin Moore Jr. who prescribed Aspirin. Discharge occurred on 2021-03-14 with a billing charge of $18843.02.",
+        "entities": [
+            {"text": "Luke Burgess", "label": "PERSON"},
+            {"text": "2021-03-04", "label": "DATE"},
+            {"text": "Houston PLC", "label": "ORG"},
+            {"text": "Blue Cross", "label": "ORG"},
+            {"text": "Dr. Justin Moore Jr.", "label": "PERSON"},
+            {"text": "2021-03-14", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2022-11-15, Daniel Schmidt (Male, 63 years old, blood type B+) was admitted to Hammond Ltd for treatment of Asthma (Elective admission). Covered by Cigna, the patient was treated by Dr. Denise Galloway who prescribed Penicillin. Discharge occurred on 2022-11-22 with a billing charge of $23762.20.",
+        "entities": [
+            {"text": "Daniel Schmidt", "label": "PERSON"},
+            {"text": "2022-11-15", "label": "DATE"},
+            {"text": "Hammond Ltd", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Denise Galloway", "label": "PERSON"},
+            {"text": "2022-11-22", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Timothy Burns: 67 years old, Female, blood type A-, was admitted on 2023-06-28 at Jones LLC due to Asthma, under Elective admission. Insurance provider: Blue Cross. The attending physician, Dr. Krista Smith, prescribed Aspirin. Test results indicated Normal. The patient was discharged on 2023-07-02 with a total bill of $42.51.",
+        "entities": [
+            {"text": "Timothy Burns", "label": "PERSON"},
+            {"text": "2023-06-28", "label": "DATE"},
+            {"text": "Jones LLC", "label": "ORG"},
+            {"text": "Blue Cross", "label": "ORG"},
+            {"text": "Dr. Krista Smith", "label": "PERSON"},
+            {"text": "2023-07-02", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Christopher Bright: 48 years old, Male, blood type B+, was admitted on 2020-01-21 at Williams-Davis due to Asthma, under Urgent admission. Insurance provider: Aetna. The attending physician, Dr. Gregory Smith, prescribed Lipitor. Test results indicated Normal. The patient was discharged on 2020-02-09 with a total bill of $17695.91.",
+        "entities": [
+            {"text": "Christopher Bright", "label": "PERSON"},
+            {"text": "2020-01-21", "label": "DATE"},
+            {"text": "Williams-Davis", "label": "ORG"},
+            {"text": "Aetna", "label": "ORG"},
+            {"text": "Dr. Gregory Smith", "label": "PERSON"},
+            {"text": "2020-02-09", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Kathryn Stewart: 58 years old, Female, blood type O+, was admitted on 2022-05-12 at Clark-Mayo due to Arthritis, under Urgent admission. Insurance provider: Aetna. The attending physician, Dr. Vanessa Newton, prescribed Lipitor. Test results indicated Inconclusive. The patient was discharged on 2022-06-10 with a total bill of $5998.10.",
+        "entities": [
+            {"text": "Kathryn Stewart", "label": "PERSON"},
+            {"text": "2022-05-12", "label": "DATE"},
+            {"text": "Clark-Mayo", "label": "ORG"},
+            {"text": "Aetna", "label": "ORG"},
+            {"text": "Dr. Vanessa Newton", "label": "PERSON"},
+            {"text": "2022-06-10", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Dr. Eileen Thompson: 59 years old, Male, blood type A+, was admitted on 2021-08-02 at and Sons Smith due to Asthma, under Urgent admission. Insurance provider: Aetna. The attending physician, Dr. Donna Martinez MD, prescribed Lipitor. Test results indicated Inconclusive. The patient was discharged on 2021-08-12 with a total bill of $25250.05.",
+        "entities": [
+            {"text": "Eileen Thompson", "label": "PERSON"},
+            {"text": "2021-08-02", "label": "DATE"},
+            {"text": "and Sons Smith", "label": "ORG"},
+            {"text": "Aetna", "label": "ORG"},
+            {"text": "Dr. Donna Martinez MD", "label": "PERSON"},
+            {"text": "2021-08-12", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Paul Henderson: 72 years old, Female, blood type AB+, was admitted on 2020-05-15 at Wilson Group due to Hypertension, under Emergency admission. Insurance provider: Medicare. The attending physician, Dr. Stephanie Kramer, prescribed Paracetamol. Test results indicated Inconclusive. The patient was discharged on 2020-06-08 with a total bill of $33211.30.",
+        "entities": [
+            {"text": "Paul Henderson", "label": "PERSON"},
+            {"text": "2020-05-15", "label": "DATE"},
+            {"text": "Wilson Group", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Stephanie Kramer", "label": "PERSON"},
+            {"text": "2020-06-08", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Peter Fitzgerald: 73 years old, Male, blood type AB+, was admitted on 2020-05-15 at Garner-Bowman due to Obesity, under Urgent admission. Insurance provider: Medicare. The attending physician, Dr. Angela Contreras, prescribed Aspirin. Test results indicated Abnormal. The patient was discharged on 2020-05-20 with a total bill of $19746.83.",
+        "entities": [
+            {"text": "Peter Fitzgerald", "label": "PERSON"},
+            {"text": "2020-05-15", "label": "DATE"},
+            {"text": "Garner-Bowman", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Angela Contreras", "label": "PERSON"},
+            {"text": "2020-05-20", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Cathy Small: 51 years old, Female, blood type O-, was admitted on 2023-12-23 at Brown, and Jones Weaver due to Asthma, under Elective admission. Insurance provider: Blue Cross. The attending physician, Dr. Wendy Glenn, prescribed Ibuprofen. Test results indicated Normal. The patient was discharged on 2024-01-19 with a total bill of $26786.53.",
+        "entities": [
+            {"text": "Cathy Small", "label": "PERSON"},
+            {"text": "2023-12-23", "label": "DATE"},
+            {"text": "Brown, and Jones Weaver", "label": "ORG"},
+            {"text": "Blue Cross", "label": "ORG"},
+            {"text": "Dr. Wendy Glenn", "label": "PERSON"},
+            {"text": "2024-01-19", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Mr. Kenneth Moore: 34 years old, Female, blood type A+, was admitted on 2022-06-21 at Serrano-Dixon due to Diabetes, under Emergency admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. James Ellis, prescribed Lipitor. Test results indicated Abnormal. The patient was discharged on 2022-06-30 with a total bill of $18834.80.",
+        "entities": [
+            {"text": "Kenneth Moore", "label": "PERSON"},
+            {"text": "2022-06-21", "label": "DATE"},
+            {"text": "Serrano-Dixon", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. James Ellis", "label": "PERSON"},
+            {"text": "2022-06-30", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Mary Hunter, (Female, 38 years old, blood type O-) was admitted in Emergency mode. The patient was hospitalized on 2021-01-03 to Gardner-Miller for Hypertension. Patient insurance is Cigna. The Dr. Jared Bruce Jr. prescribed the Penicillin. Tests have shown Normal results. The patient  was discharged on 2021-01-16 with a billing amount in this range: $32643.30.",
+        "entities": [
+            {"text": "Mary Hunter", "label": "PERSON"},
+            {"text": "2021-01-03", "label": "DATE"},
+            {"text": "Gardner-Miller", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Jared Bruce Jr.", "label": "PERSON"},
+            {"text": "2021-01-16", "label": "DATE"}
+        ]
+    },
+    {
+        "text":"Joshua Oliver, (Female, 63 years old, blood type B+) was admitted in Elective mode. The patient was hospitalized on 2023-10-03 to Guerrero-Boone for Hypertension. Patient insurance is Aetna. The Dr. Brandy Mitchell prescribed the Paracetamol. Tests have shown Abnormal results. The patient was discharged on 2023-10-12 with a billing amount in this range: $5767.01.",
+        "entities":[
+            {"text":"Joshua Oliver","label":"PERSON"},
+            {"text":"2023-10-03","label":"DATE"},
+            {"text":"Guerrero-Boone","label":"ORG"},
+            {"text":"Aetna","label":"ORG"},
+            {"text":"Dr. Brandy Mitchell","label":"PERSON"},
+            {"text":"2023-10-12","label":"DATE"}
+     ]},
+    {
+        "text":"Thomas Martinez: 34 years old, Male, blood type B-, was admitted on 2019-08-18 at Hart Ltd due to Asthma, under Urgent admission. Insurance provider: Cigna. The attending physician, Dr. Jacob Huynh, prescribed Ibuprofen. Test results indicated Inconclusive. The patient was discharged on 2019-09-01 with a total bill of $47909.13.",
+        "entities":[
+            {"text":"Thomas Martinez","label":"PERSON"},
+            {"text":"2019-08-18","label":"DATE"},
+            {"text":"Hart Ltd","label":"ORG"},
+            {"text":"Cigna","label":"ORG"},
+            {"text":"Dr. Jacob Huynh","label":"PERSON"},
+            {"text":"2019-09-01","label":"DATE"}
+     ]},
+    {
+        "text":"James Patterson: 23 years old, Female, blood type A+, was admitted on 2019-11-03 at Cruz-Santiago due to Arthritis, under Urgent admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Kristina Frazier, prescribed Penicillin. Test results indicated Abnormal. The patient was discharged on 2019-11-29 with a total bill of $25835.32.",
+        "entities":[
+            {"text":"James Patterson","label":"PERSON"},
+            {"text":"2019-11-03","label":"DATE"},
+            {"text":"Cruz-Santiago","label":"ORG"},
+            {"text":"UnitedHealthcare","label":"ORG"},
+            {"text":"Dr. Kristina Frazier","label":"PERSON"},
+            {"text":"2019-11-29","label":"DATE"}
+     ]},
+    {
+        "text":"William Cooper: 78 years old, Male, blood type AB-, was admitted on 2023-05-18 at Group Duncan due to Arthritis, under Elective admission. Insurance provider: Medicare. The attending physician, Dr. John Hartman, prescribed Penicillin. Test results indicated Normal. The patient was discharged on 2023-06-15 with a total bill of $17993.23.",
+        "entities":[
+          {"text":"William Cooper","label":"PERSON"},
+          {"text":"2023-05-18","label":"DATE"},
+          {"text":"Group Duncan","label":"ORG"},
+          {"text":"Medicare","label":"ORG"},
+          {"text":"Dr. John Hartman","label":"PERSON"},
+          {"text":"2023-06-15","label":"DATE"}
+     ]},
+    {"text":"Erin Ortega: 43 years old, Male, blood type AB-, was admitted on 2023-05-24 at Lopez-Phillips due to Cancer, under Elective admission. Insurance provider: Medicare. The attending physician, Dr. Heather Garcia, prescribed Ibuprofen. Test results indicated Normal. The patient was discharged on 2023-06-03 with a total bill of $21185.95.",
+     "entities":[
+         {"text":"Erin Ortega","label":"PERSON"},
+         {"text":"2023-05-24","label":"DATE"},
+         {"text":"Lopez-Phillips","label":"ORG"},
+         {"text":"Medicare","label":"ORG"},
+         {"text":"Dr. Heather Garcia","label":"PERSON"},
+         {"text":"2023-06-03","label":"DATE"}
+     ]},
+    {"text":"Nicole Rodriguez, (Female, 30 years old, blood type AB+) was admitted in Emergency mode. The patient was hospitalized on 2020-01-17 to Poole Inc for Diabetes. Patient insurance is Blue Cross. The Dr. Lynn Young prescribed the Lipitor. Tests have shown Normal results. The patient was discharged on 2020-02-10 with a billing amount in this range: $8408.95.",
+     "entities":[
+         {"text":"Nicole Rodriguez","label":"PERSON"},
+         {"text":"2020-01-17","label":"DATE"},
+         {"text":"Poole Inc","label":"ORG"},
+         {"text":"Blue Cross","label":"ORG"},
+         {"text":"Dr. Lynn Young","label":"PERSON"},
+         {"text":"2020-02-10","label":"DATE"}
+     ]},
+    {"text":"On 2021-01-07, David Anderson (Female, 25 years old, blood type AB+) was admitted to Sons and Cox for treatment of Asthma (Elective admission). Covered by Medicare, the patient was treated by Dr. Emma Allison who prescribed Lipitor. Tests revealed Abnormal. Discharge occurred on 2021-01-26 with a billing charge of $45453.42.",
+     "entities":[
+         {"text":"David Anderson","label":"PERSON"},
+         {"text":"2021-01-07","label":"DATE"},
+         {"text":"Sons and Cox","label":"ORG"},
+         {"text":"Medicare","label":"ORG"},
+         {"text":"Dr. Emma Allison","label":"PERSON"},
+         {"text":"2021-01-26","label":"DATE"}
+     ]},
+    {"text":"Denise Torres, (Male, 33 years old, blood type AB+) was admitted in Urgent mode. The patient was hospitalized on 2019-10-14 to LLC Martin for Diabetes. Patient insurance is Aetna. The Dr. Laura Myers prescribed the Paracetamol. Tests have shown Inconclusive results. The patient was discharged on 2019-10-19 with a billing amount in this range: $4397.78.",
+     "entities":[
+         {"text":"Denise Torres","label":"PERSON"},
+         {"text":"2019-10-14","label":"DATE"},
+         {"text":"LLC Martin","label":"ORG"},
+         {"text":"Aetna","label":"ORG"},
+         {"text":"Dr. Laura Myers","label":"PERSON"},
+         {"text":"2019-10-19","label":"DATE"}
+     ]},
+    {"text":"On 2021-12-19, Cassandra Robinson (Female, 26 years old, blood type B-) was admitted to Espinoza-Stone for treatment of Hypertension (Urgent admission). Covered by Aetna, the patient was treated by Dr. Travis Parsons who prescribed Ibuprofen. Tests revealed Normal. Discharge occurred on 2022-01-16 with a billing charge of $9380.33.",
+     "entities":[
+         {"text":"Cassandra Robinson","label":"PERSON"},
+         {"text":"2021-12-19","label":"DATE"},
+         {"text":"Espinoza-Stone","label":"ORG"},
+         {"text":"Aetna","label":"ORG"},
+         {"text":"Dr. Travis Parsons","label":"PERSON"},
+         {"text":"2022-01-16","label":"DATE"}
+     ]},
+    {"text":"On 2022-03-12, Nicole Lucero (Female, 70 years old, blood type O-) was admitted to and Garcia Morris Cunningham, for treatment of Diabetes (Emergency admission). Covered by Cigna, the patient was treated by Dr. Christine Johnson who prescribed Lipitor. Tests revealed Abnormal. Discharge occurred on 2022-03-29 with a billing charge of $48290.69.",
+     "entities":[
+         {"text":"Nicole Lucero","label":"PERSON"},
+         {"text":"2022-03-12","label":"DATE"},
+         {"text":"and Garcia Morris Cunningham","label":"ORG"},
+         {"text":"Cigna","label":"ORG"},
+         {"text":"Dr. Christine Johnson","label":"PERSON"},
+         {"text":"2022-03-29","label":"DATE"}
+     ]},
+    {
+        "text": "On 2021-01-17, Pamela Fernandez (Female, 57 years old, blood type B-) was admitted to Walton-Meyer for treatment of Obesity (Urgent admission). Covered by Medicare, the patient was treated by Dr. Emily Taylor who prescribed Penicillin. Tests revealed Abnormal. Discharge occurred on 2021-01-29 with a billing charge of $32973.94.",
+        "entities": [
+            {"text": "Pamela Fernandez", "label": "PERSON"},
+            {"text": "2021-01-17", "label": "DATE"},
+            {"text": "Walton-Meyer", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Emily Taylor", "label": "PERSON"},
+            {"text": "2021-01-29", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Christopher Lee: 74 years old, Female, blood type B-, was admitted on 2021-09-15 at PLC Young due to Hypertension, under Emergency admission. Insurance provider: Cigna. The attending physician, Dr. William Reynolds, prescribed Lipitor. Test results indicated Normal. The patient was discharged on 2021-10-05 with a total bill of $49943.28.",
+        "entities": [
+            {"text": "Christopher Lee", "label": "PERSON"},
+            {"text": "2021-09-15", "label": "DATE"},
+            {"text": "PLC Young", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. William Reynolds", "label": "PERSON"},
+            {"text": "2021-10-05", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Thomas Morse: 81 years old, Male, blood type A+, was admitted on 2020-01-27 at Meadows Group due to Hypertension, under Urgent admission. Insurance provider: Cigna. The attending physician, Dr. Jennifer Carter, prescribed Aspirin. Test results indicated Normal. The patient was discharged on 2020-02-09 with a total bill of $35633.96.",
+        "entities": [
+            {"text": "Thomas Morse", "label": "PERSON"},
+            {"text": "2020-01-27", "label": "DATE"},
+            {"text": "Meadows Group", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Jennifer Carter", "label": "PERSON"},
+            {"text": "2020-02-09", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Mr. Eric Lane: 49 years old, Female, blood type A-, was admitted on 2022-06-24 at and Howell Brooks, Rogers due to Asthma, under Elective admission. Insurance provider: Cigna. The attending physician, Dr. Matthew Thomas, prescribed Paracetamol. Test results indicated Normal. The patient was discharged on 2022-07-18 with a total bill of $25966.33.",
+        "entities": [
+            {"text": "Eric Lane", "label": "PERSON"},
+            {"text": "2022-06-24", "label": "DATE"},
+            {"text": "Howell Brooks, Rogers", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Matthew Thomas", "label": "PERSON"},
+            {"text": "2022-07-18", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Katherine Smith: 26 years old, Female, blood type AB+, was admitted on 2021-06-09 at and Mcclure White Boone, due to Obesity, under Urgent admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. Mary Logan, prescribed Paracetamol. Test results indicated Normal. The patient was discharged on 2021-07-01 with a total bill of $21784.45.",
+        "entities": [
+            {"text": "Katherine Smith", "label": "PERSON"},
+            {"text": "2021-06-09", "label": "DATE"},
+            {"text": "Mcclure White Boone", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. Mary Logan", "label": "PERSON"},
+            {"text": "2021-07-01", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2020-08-23, Paul Williams (Female, 81 years old, blood type AB-) was admitted to Gates Brown, and Stuart for treatment of Cancer (Urgent admission). Covered by Medicare, the patient was treated by Dr. Kristin Martinez who prescribed Penicillin. Tests revealed Abnormal. Discharge occurred on 2020-09-08 with a billing charge of $42684.56.",
+        "entities": [
+            {"text": "Paul Williams", "label": "PERSON"},
+            {"text": "2020-08-23", "label": "DATE"},
+            {"text": "Gates Brown, and Stuart", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Kristin Martinez", "label": "PERSON"},
+            {"text": "2020-09-08", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Lynn Martinez, (Male, 65 years old, blood type O+) was admitted in Emergency mode. The patient was hospitalized on 2022-10-12 to Group Armstrong for Cancer. Patient insurance is Medicare. The Dr. Daniel Murphy prescribed the Penicillin. Tests have shown Normal results. The patient  was discharged on 2022-11-02 with a billing amount in this range: $45585.89.",
+        "entities": [
+            {"text": "Lynn Martinez", "label": "PERSON"},
+            {"text": "2022-10-12", "label": "DATE"},
+            {"text": "Group Armstrong", "label": "ORG"},
+            {"text": "Medicare", "label": "ORG"},
+            {"text": "Dr. Daniel Murphy", "label": "PERSON"},
+            {"text": "2022-11-02", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Christopher Chapman, (Female, 31 years old, blood type O+) was admitted in Elective mode. The patient was hospitalized on 2021-12-01 to Ltd Schwartz for Hypertension. Patient insurance is Cigna. The Dr. Emily Patterson prescribed the Paracetamol. Tests have shown Normal results. The patient  was discharged on 2021-12-09 with a billing amount in this range: $29615.44.",
+        "entities": [
+            {"text": "Christopher Chapman", "label": "PERSON"},
+            {"text": "2021-12-01", "label": "DATE"},
+            {"text": "Ltd Schwartz", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Emily Patterson", "label": "PERSON"},
+            {"text": "2021-12-09", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Chris Frye, (Male, 58 years old, blood type A-) was admitted in Urgent mode. The patient was hospitalized on 2020-05-04 to Nelson-Phillips for Diabetes. Patient insurance is Cigna. The Dr. Heather Smith prescribed the Aspirin. Tests have shown Normal results. The patient  was discharged on 2020-05-13 with a billing amount in this range: $36992.27.",
+        "entities": [
+            {"text": "Chris Frye", "label": "PERSON"},
+            {"text": "2020-05-04", "label": "DATE"},
+            {"text": "Nelson-Phillips", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Heather Smith", "label": "PERSON"},
+            {"text": "2020-05-13", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "Kyle Bennett: 22 years old, Male, blood type O+, was admitted on 2023-09-09 at Knight and Nguyen, Riggs due to Hypertension, under Urgent admission. Insurance provider: UnitedHealthcare. The attending physician, Dr. John Smith, prescribed Ibuprofen. Test results indicated Abnormal. The patient was discharged on 2023-09-23 with a total bill of $28051.50.",
+        "entities": [
+            {"text": "Kyle Bennett", "label": "PERSON"},
+            {"text": "2023-09-09", "label": "DATE"},
+            {"text": "Knight and Nguyen, Riggs", "label": "ORG"},
+            {"text": "UnitedHealthcare", "label": "ORG"},
+            {"text": "Dr. John Smith", "label": "PERSON"},
+            {"text": "2023-09-23", "label": "DATE"}
+        ]
+    },
+    {
+        "text": "On 2019-07-19, Brandon Collins (Female, 77 years old, blood type O+) was admitted to Lopez PLC for treatment of Asthma (Urgent admission). Covered by Cigna, the patient was treated by Dr. Cameron Young who prescribed Ibuprofen. Tests revealed Abnormal. Discharge occurred on 2019-07-29 with a billing charge of $16320.23.",
+        "entities": [
+            {"text": "Brandon Collins", "label": "PERSON"},
+            {"text": "2019-07-19", "label": "DATE"},
+            {"text": "Lopez PLC", "label": "ORG"},
+            {"text": "Cigna", "label": "ORG"},
+            {"text": "Dr. Cameron Young", "label": "PERSON"},
+            {"text": "2019-07-29", "label": "DATE"}
+        ]
+    }
+]    
