@@ -21,7 +21,7 @@ Il dataset è progettato per imitare i dati sanitari del mondo reale, consentend
 ## Strumenti e Tecnologie
 - Python: il linguaggio tramite il quale è stato scritto il codice.
 - Google Colab: ambiente di sviluppo.
-- IPYNB: ossia python notebook, permette di strutturare il codice in maniera agevole.
+- Jupyter Notebook (.ipynb): permette di strutturare il codice in maniera agevole.
 
 ## Installazione e Uso
 1. Scaricare i file .ipynb e il dataset .csv e il file .json.
@@ -30,7 +30,7 @@ Il dataset è progettato per imitare i dati sanitari del mondo reale, consentend
 4. Eseguire tutte le celle tramite Colab
 
 ## Struttura del Progetto
-- `ProgettoHealthcareDataset.pdf`: Documentazione del progetto combinato completo.
-- `ProgettoHealthcareDatasetNLP.pdf`: Documentazione del progetto di NLP.
-- `Codici/`: Directory contenente i file .pynb.
-- `Dataset/`: Directory contenente il dataset e il file .json.
+- [ProgettoHealthcareDataset.pdf](ProgettoHealthcareDataset.pdf): Documentazione del progetto combinato completo.
+- [ProgettoHealthcareDatasetNLP.pdf](ProgettoHealthcareDatasetNLP.pdf): Documentazione del progetto di NLP.
+- [Codici/](Codici/): Directory contenente i file .pynb.
+- [Dataset/](Dataset/): Directory contenente il dataset e il file .json.
