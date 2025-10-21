@@ -19,9 +19,15 @@ Questo progetto combinato è stato sviluppato per gli esami di Fondamenti di Dat
 Il dataset è progettato per imitare i dati sanitari del mondo reale, consentendo agli utenti di praticare, sviluppare e mostrare le loro abilità di manipolazione e analisi dei dati nel contesto del settore sanitario. Ogni colonna fornisce informazioni specifiche sul paziente, sul suo ricovero e sui servizi sanitari ricevuti, rendendo questo dataset adatto a diversi compiti di analisi dei dati e modellazione nel settore sanitario. 
 
 ## Strumenti e Tecnologie
-- Python: il linguaggio tramite il quale è stato scritto il codice.
-- Google Colab: ambiente di sviluppo.
-- Jupyter Notebook (.ipynb): permette di strutturare il codice in maniera agevole.
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>
+</div>
+
+- Python: linguaggio di programmazione utilizzato.
+- Google Colab: ambiente di sviluppo online per eseguire codice Python.
+- Jupyter Notebook (.ipynb): formato di file utilizzato per organizzare il codice in celle, con testo e risultati integrati.
 
 ## Installazione e Uso
 1. Scaricare i file .ipynb e il dataset .csv e il file .json.
