@@ -1,7 +1,7 @@
 # Progetto-FDSML-NLP: Anonimizzazione dati sanitari
 
 ## Overview
-Questo progetto combinato è stato sviluppato per gli esami di Fondamenti di Data Science e Machine Learning (FDSML) e di Natural Language Processing (NLP). L'obiettivo principale di questo progetto è l'utilizzo di specifiche tecniche per l'addestramento di modelli di Machine Learning e per l'anonimizzazione di dati sensibili. 
+Questo progetto combinato è stato sviluppato per gli esami di Fondamenti di Data Science e Machine Learning (FDSML) e di Natural Language Processing (NLP). L'obiettivo principale di questo progetto è l'utilizzo di specifiche tecniche per l'addestramento di modelli di Machine Learning per l'anonimizzazione di dati sensibili. 
 
 ## Autori
 <a href="https://github.com/luicons01/Progetto-FDSML-NLP/graphs/contributors">
