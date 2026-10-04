@@ -36,8 +36,8 @@ Il dataset è progettato per imitare i dati sanitari del mondo reale, consentend
 4. Eseguire tutte le celle tramite Colab
 
 ## Struttura del Progetto
-- [Documentazione/ProgettoHealthcareDataset.pdf](ProgettoHealthcareDataset.pdf): Documentazione del progetto combinato completo.
-- [Documentazione/ProgettoHealthcareDatasetNLP.pdf](ProgettoHealthcareDatasetNLP.pdf): Documentazione del progetto di NLP.
-- [Documentazione/PresentazioneCanva_HealthcareDataset.pdf](PresentazioneCanva_HealthcareDataset.pdf): Presentazione del progetto completo.
+- [ProgettoHealthcareDataset.pdf](Documentazione/ProgettoHealthcareDataset.pdf): Documentazione del progetto combinato completo.
+- [ProgettoHealthcareDatasetNLP.pdf](Documentazione/ProgettoHealthcareDatasetNLP.pdf): Documentazione del progetto di NLP.
+- [PresentazioneCanva_HealthcareDataset.pdf](Documentazione/PresentazioneCanva_HealthcareDataset.pdf): Presentazione del progetto completo.
 - [Codici/](Codici/): Directory contenente i file .pynb.
 - [Dataset/](Dataset/): Directory contenente il dataset e il file .json.
